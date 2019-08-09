@@ -2,7 +2,11 @@
 2. Here should be second string
 3. another string
 4. one more please
+<<<<<<< HEAD
 
 5. ammend this
 
 6. second ammend
+=======
+4. one more please
+>>>>>>> 5536b9433dd4eaf333472c2fa36295441f4a5ed7
